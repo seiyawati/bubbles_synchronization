@@ -1,5 +1,4 @@
 from data import control_data, liquid_data, bubble0, bubbles
-import numpy as np
 import math
 
 # control data
